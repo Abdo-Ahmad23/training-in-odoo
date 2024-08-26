@@ -1,0 +1,11 @@
+<odoo>
+
+    
+    <menuitem 
+        id="properties_menu" 
+        name="Properties"
+        parent="law.law_root_menu"
+    />
+
+
+</odoo>
