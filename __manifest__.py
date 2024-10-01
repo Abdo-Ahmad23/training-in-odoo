@@ -1,5 +1,5 @@
 {
-    'name': 'AAAA',
+    'name':'App One',
     'version': '1.0',
     'summary': 'A brief description of my module',
     'description': 'A longer description of what my module does',
